@@ -1,23 +1,16 @@
-# One-Line Roast
+# One-Line Roast entry
 
-A make.fun competition entry for **"One-Line Roast: The Gadget You Use Every Day."**
+A tiny TypeScript program that writes one original one-line roast of an everyday gadget to `/output/entry.txt`.
 
-`main.ts` writes a single original roast (<=200 chars) to `/output/entry.txt`.
-No network access, no external file reads — fully self-contained.
-
-## The line
-
-> My GPS recalculates in the weary sigh of a driving instructor who's already written me off.
-
-## Run
-
-```sh
+```bash
 node main.ts
+cat /output/entry.txt
 ```
 
-Writes to `/output/entry.txt` (creating the directory if needed). If `/output`
-isn't writable, falls back to `./entry.txt`.
+## make.fun
 
-## License
+[![make.fun · u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610](https://make.fun/badge/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610)
+[![rank](https://make.fun/badge/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610/axedotid/makefun-roast-ug/rank.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610)
+[![reward](https://make.fun/badge/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610/axedotid/makefun-roast-ug/reward.svg)](https://make.fun/bounty/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610?utm_source=github&utm_medium=readme&utm_campaign=u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610)
 
-MIT — see [LICENSE](./LICENSE).
+Bounty: https://make.fun/bounty/u-daring-gecko-25-one-line-roast-the-gadget-you-use-3d6aa610
